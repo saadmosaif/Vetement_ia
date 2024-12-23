@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280522494965",
+    "project_id": "vetement-894d3",
+    "storage_bucket": "vetement-894d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280522494965:android:1ce52a67ddba80ba2ec6bc",
+        "android_client_info": {
+          "package_name": "com.saad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7KDbMVRV0H15A3b3aKlnNZtcRDfLcU1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+[debug] [2024-12-23T00:35:00.353Z] ----------------------------------------------------------------------
+[debug] [2024-12-23T00:35:00.358Z] Command:       C:\firebase-tools-instant-win.exe C:\Users\Administrator\.cache\firebase\tools\lib\node_modules\firebase-tools\lib\bin\firebase init
+[debug] [2024-12-23T00:35:00.358Z] CLI Version:   13.29.0
+[debug] [2024-12-23T00:35:00.359Z] Platform:      win32
+[debug] [2024-12-23T00:35:00.359Z] Node Version:  v18.5.0
+[debug] [2024-12-23T00:35:00.360Z] Time:          Mon Dec 23 2024 01:35:00 GMT+0100 (GMT+02:00)
+[debug] [2024-12-23T00:35:00.361Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-12-23T00:35:00.529Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[debug] [2024-12-23T00:35:00.538Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-12-23T00:35:00.539Z] > authorizing via signed-in user (saadmosaif.emsi@gmail.com)
+[debug] [2024-12-23T00:35:00.540Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Administrator\Desktop\Vetement_IA-master
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
